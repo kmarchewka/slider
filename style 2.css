@@ -1,0 +1,25 @@
+a.navbar-brand{
+    padding:5px 10px 5px 20px;
+
+}
+.navbar-default{
+    padding: 10px 0;
+    background-color:white;
+    margin-bottom:0;
+}
+.header-top-fluid{
+background-color: bisque;
+}
+
+.header-img{
+    width:100%;
+    max-width:291px;
+    display:block;
+    margin: 0 auto;
+}
+span.glyphicon{
+    width:10rem;
+    top:8rem;
+    position:relative;
+    text-align: center;
+}
